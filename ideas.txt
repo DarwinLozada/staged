@@ -1,0 +1,15 @@
+- El cursor por default del navegador se va a remplazar
+  con una especie de figura redonda que provoca el 
+  efecto espejo en los elementos que tiene debajo
+
+- Incluir una sección de la página en la que crea
+  una ambientación espacial bastante profunda:
+
+    Estrellas, nebulosas, degrados y contrastes bastante
+    resaltantes
+
+- El proyecto se conformaria de una serie de secciones
+  estas se pueden mover por si solas y también usando algún botón,
+  el objetivo de esta experiencia es llevar al usuario a través
+  de diferentes experiencias creativas... Tormentas, campos verdes
+  o cualquier cosa que pueda reflejar la creatividad
