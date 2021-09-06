@@ -44,8 +44,6 @@ const PageLayout: FC<Props> = ({ children, title, onFinishEnterAnimation }) => {
 
   const isMounted = useMounted()
 
-  console.log(isAnimating)
-
   return (
     <>
       <Head>
